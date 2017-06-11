@@ -1,0 +1,5 @@
+name="Digg611"
+url="https://archive.org/download/Kodi611/Kodi611.zip"
+img="https://github.com/Diggsfire/digg611/raw/dec51ad2a2c8732e803453055db88845509f4d6a/icon.png"
+fanart="https://github.com/Diggsfire/digg611/raw/dec51ad2a2c8732e803453055db88845509f4d6a/fanart.jpg"
+description="Diggs fire build 611"
